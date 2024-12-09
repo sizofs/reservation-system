@@ -17,7 +17,7 @@ Requirements
 re library for regular expression handling (part of Python standard library)
 Installation
 Clone the repository:
-git clone https://github.com/your-username/reservation-system.git
+git clone https://github.com/sizofs/reservation-system.git
 
 Navigate into the project directory:
 cd reservation-system
